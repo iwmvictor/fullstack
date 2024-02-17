@@ -1,4 +1,5 @@
 # Full Stack Development Journey by Iwmvictor
+/*
   ___      _             _       _           
  / _ \    | |           | |     (_)          
 / /_\ \ __| |_   _  __ _| |_ ___ _ _ __ ___  
@@ -6,7 +7,7 @@
 | | | | (_| | |_| | (_| | |_\__ \ | | | | | |
 \_| |_/\__,_|\__,_|\__,_|\__|___/_|_| |_| |_|
                                             
-
+*/
 
 ## Introduction
 Welcome to my Full Stack Development journey! I'm Isingizwe Munezero Victor, also known as Iwmvictor, a passionate software engineer eager to dive deep into the world of full stack development. In this repository, I'm documenting my learning process, showcasing projects, and sharing insights gained along the way.
@@ -17,7 +18,7 @@ Welcome to my Full Stack Development journey! I'm Isingizwe Munezero Victor, als
 - **Profession:** Software Engineer
 - **Contact:** 
   - Email: isingizwemunezerovictor5@gmail.com
-  - Social Media: [@Iwmvictor](https://instagram.com/Iwmvictor) | [@Iwmvictor](https://twitter.com/Iwmvictor) | [@Iwmvictor](https://facebook.com/Iwmvictor) | [@Iwmvictor](https://tiktok.com/Iwmvictor)
+  - Social Media[Iwmvictor]: [Instagram](https://instagram.com/Iwmvictor) | [Twitter](https://twitter.com/Iwmvictor) | [Facebook](https://facebook.com/Iwmvictor) | [Tiktok](https://tiktok.com/@Iwmvictor)
   - YouTube: [Iwmvictor](https://www.youtube.com/@iwmvik)
   - Portfolio: [iwmvictor.vercel.app](https://iwmvictor.vercel.app)
 
